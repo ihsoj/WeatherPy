@@ -1,10 +1,14 @@
 # WeatherPy
-An analysis of global changes in weather in relation to latitude for over 500 random cities. Utilized the OpenWeather Rest API and Python to perform API calls, create non-duplicate summary statistics, and Matplotlib to create scatterplots of each relationship.
+
+## Project Description: 
+This project is an analysis of global weather changes in relation to latitude for over 500 random cities. The OpenWeather Rest API and Python were utiiized to (1) perform API calls and (2) create non-duplicate summary statistics. Matplotlib was used to create scatterplots of each relationship.
 
 
-# Notes
+## Notes
 At https://openweathermap.org/api simply sign up for a free API key.
 Once you receive that API key, copy and paste it within the parentheses in the api_keys.py file.
-Run the code from Jupyter Notebook or Jupyter Lab. 
+Open Jupyter Notebook or Jupyter Lab.
+Install all the necessary modules locally to run the code.
+The results should display as each cell of code runs. 
   
 If you would like a demo or are having issues, feel free to email me at ihsoj@icloud.com.
