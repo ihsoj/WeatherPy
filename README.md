@@ -11,4 +11,4 @@ Open Jupyter Notebook or Jupyter Lab.
 Install all the necessary modules locally to run the code.
 The results should display as each cell of code runs. 
   
-If you would like a demo or are having issues, feel free to email me at ihsoj@icloud.com.
+
