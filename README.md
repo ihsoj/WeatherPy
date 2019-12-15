@@ -9,7 +9,8 @@ This project is an analysis of global weather changes in relation to latitude fo
 
 ![image](https://user-images.githubusercontent.com/51388767/70867797-7720d180-1f47-11ea-8b30-5b8f6e57c02c.png)
 
-![image](https://user-images.githubusercontent.com/51388767/70867907-c4ea0980-1f48-11ea-9431-e1da4949fcf0.png)
+![image](https://user-images.githubusercontent.com/51388767/70867932-1befde80-1f49-11ea-9a16-82c8706cb37a.png)
+
 
 
 
