@@ -5,7 +5,7 @@ This project is an analysis of global weather changes in relation to latitude fo
 
 ![image](https://user-images.githubusercontent.com/51388767/70867428-6b331080-1f43-11ea-877c-991a7a1bae11.png)
 
-![image](https://user-images.githubusercontent.com/51388767/70867598-24461a80-1f45-11ea-9f87-4810f180e2e6.png)
+![image](https://user-images.githubusercontent.com/51388767/70867647-b77f5000-1f45-11ea-9760-6fcd87d36f63.png)
 
 
 
