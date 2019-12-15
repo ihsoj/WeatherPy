@@ -3,6 +3,8 @@
 ## Project Description: 
 This project is an analysis of global weather changes in relation to latitude for over 500 random cities. The OpenWeather Rest API and Python, Pandas, and Jupyter Notebook were utilized to (1) perform API calls and (2) create non-duplicate summary statistics. Matplotlib was used to create scatterplots of each relationship.
 
+![image](https://user-images.githubusercontent.com/51388767/70867428-6b331080-1f43-11ea-877c-991a7a1bae11.png)
+
 
 
 ## Observable Trends:
