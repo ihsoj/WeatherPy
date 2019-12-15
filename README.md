@@ -8,7 +8,7 @@ This project is an analysis of global weather changes in relation to latitude fo
 At https://openweathermap.org/api simply sign up for a free API key.
 Once you receive that API key, copy and paste it within the parentheses in the api_keys.py file.
 Open Jupyter Notebook or Jupyter Lab.
-Install all the necessary modules locally to run the code.
+Install all the necessary modules to run the code locally.
 The results should display as each cell of code runs. 
   
 
